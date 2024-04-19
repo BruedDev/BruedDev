@@ -51,7 +51,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="#" target="blank">
-    <img style="border-radius: 50%; background: #afeeee; border: 6px solid #fff; padding: 5px; display:flex; margin-bottom: 20px" width="60" height="60" src="images/logo-web.svg" alt="trungquandev-blog" />
+    <img  width="90" height="90" src="images/logo-web.svg" alt="trungquandev-blog" />
   </a>
   <a href="https://www.facebook.com/vanloc1963/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="tovanloc-facebook" />
