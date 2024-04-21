@@ -46,8 +46,8 @@
 
 &nbsp;
 
-<a href="https://github.com/BruedDev/Code-C-Vua">
-    <img align="end" src="https://github-readme-stats.vercel.app/api/pin/?username=BruedDev&repo=Code-C-Vua&theme=merko" />
+<a href="https://github.com/BruedDev/Chess">
+    <img align="end" src="https://github-readme-stats.vercel.app/api/pin/?username=BruedDev&repo=Chess&theme=merko" />
 </a>
 
 &nbsp;
