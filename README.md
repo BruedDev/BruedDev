@@ -38,7 +38,7 @@
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
+<hr>
 <!-- phần stats -->
         =======  
 <a href="https://github.com/BruedDev/Iphone">
