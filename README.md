@@ -40,9 +40,9 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <!-- phần stats -->
-
+        =======  
 <a href="https://github.com/BruedDev/Iphone">
-        =======  <img align="start" src="https://github-readme-stats.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
+<img align="start" src="https://github-readme-stats.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
 </a>
 
 <a href="https://github.com/uvipen/ASCII-generator/">
