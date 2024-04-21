@@ -39,8 +39,8 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-     <div class="user" style="width: 400px;
-    height: 300px;
+     <div class="user" style="width: 200px;
+    height: 100px;
     background-color: blue;
     border-radius: 10px;
     display: flex;
