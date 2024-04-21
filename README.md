@@ -39,6 +39,8 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
+<!-- phần stats -->
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-column-gap: 20px;">>
 <a href="https://github.com/BruedDev/Iphone">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
@@ -83,6 +85,7 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Photomosaic-generator&theme=radical" />
 </a>
+ </div>
 
 <br>
 <h2 align="center">Contact Me</h2>
