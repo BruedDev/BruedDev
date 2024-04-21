@@ -40,21 +40,17 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <!-- phần stats -->
-<<<<<<< HEAD
+
   <div>
 <a href="https://github.com/BruedDev/Iphone">
-=======
+
   <div style="display: flex;">
 <a href="https://github.com/BruedDev/Iphone" style="margin-right: 20px;">
->>>>>>> a279c904fba228b8288c984dd9cea8368b17af40
+
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="start" src="https://github-readme-stats.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
 </a>
-<<<<<<< HEAD
 
-=======
-    
->>>>>>> a279c904fba228b8288c984dd9cea8368b17af40
 <a href="https://github.com/uvipen/ASCII-generator/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="end" src="https://github-readme-stats.vercel.app/api/pin/?username=uvipen&repo=ASCII-generator&theme=merko" />
