@@ -48,9 +48,9 @@
 <a href="https://github.com/uvipen/ASCII-generator/">
   <img align="end" src="https://github-readme-stats.vercel.app/api/pin/?username=uvipen&repo=ASCII-generator&theme=merko" />
 </a>
-        
+        =======  
 <hr>
-=======  
+
      =======  
 <a href="https://github.com/uvipen/Super-mario-bros-A3C-pytorch/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-A3C-pytorch&theme=gruvbox" />
