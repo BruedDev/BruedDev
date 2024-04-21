@@ -1,5 +1,4 @@
 <!-- Trungquandev -->
-  <link rel="stylesheet" href="svg/style.css">
 <a href="#" target="_blank">
   <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
 </a>
@@ -39,16 +38,20 @@
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <a href="#" target="blank">
-    <div class="user"> alo </div>
+<br>
+<div align=center>
+  <a href="#" title="Trungquandev">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
+</div>
+
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
   <a href="#" target="blank">
-    <img  width="90" height="90" src="images/logo-web.svg" alt="tovanloc.log" />
+    <img  width="90" height="90" src="images/logo-web.svg" alt="trungquandev-blog" />
   </a>
   <a href="https://www.facebook.com/vanloc1963/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="tovanloc-facebook" />
