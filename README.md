@@ -48,7 +48,7 @@
         <div class="content-user">
             <div class="images" style=" width: 100px;
             height: 100px;">
-                <img style="border-radius: 50%; object-fit: cover;" width="100%"
+                <img style="border-radius: 50%; object-fit: cover;" width="10%"
                     src="https://png.pngtree.com/png-clipart/20190904/original/pngtree-user-cartoon-girl-avatar-png-image_4492903.jpg"
                     alt="">
             </div>
