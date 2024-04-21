@@ -25,6 +25,9 @@
         .trungquandev-signature {
           font-size: 16px;
         }
+		.user{
+			font-size: 100px;
+		}
 			</style>
 		</div>
 	</foreignObject>
