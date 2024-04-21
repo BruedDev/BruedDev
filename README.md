@@ -41,24 +41,16 @@
 <br>
 <!-- phần stats -->
 
-  <div>
-
 <a href="https://github.com/BruedDev/Iphone">
-  <div style="display: flex;">
-<a href="https://github.com/BruedDev/Iphone" style="margin-right: 20px;">
-        =======
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="start" src="https://github-readme-stats.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
+        =======  <img align="start" src="https://github-readme-stats.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
 </a>
 
 <a href="https://github.com/uvipen/ASCII-generator/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="end" src="https://github-readme-stats.vercel.app/api/pin/?username=uvipen&repo=ASCII-generator&theme=merko" />
 </a>
 
 <hr>
 <a href="https://github.com/uvipen/Super-mario-bros-A3C-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-A3C-pytorch&theme=gruvbox" />
 </a>
 
