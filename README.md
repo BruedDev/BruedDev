@@ -40,7 +40,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <!-- phần stats -->
-  <div>
+  <div style="display: flex;">
 <a href="https://github.com/BruedDev/Iphone" style="margin-right: 20px;">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="start" src="https://github-readme-stats.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
