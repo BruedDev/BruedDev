@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Tô+Văn+Lộc..;Front+-+End+Developer;&center=true"></a></p>
+    <img src="https://readme-typing-svg.herokuapp.com?color=00ced1&width=380&height=28&lines=Hi👋+I'm+Tô+Văn+Lộc..;Front+-+End+Developer;&center=true"></a></p>
 
 
 
@@ -107,4 +107,4 @@
  █████████████████████████   100.00 %
 
 <!--END_SECTION:waka-->
-![views since 2023/06/14](https://visitor-badge-deno.deno.dev/mdnadeemsarwar.mdnadeemsarwar.svg)
+![views since 2023/06/14](https://visitor-badge-deno.deno.dev/BruedDev.BruedDev.svg)
